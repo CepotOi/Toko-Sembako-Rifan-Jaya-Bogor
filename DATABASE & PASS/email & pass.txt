@@ -1,0 +1,7 @@
+Admin :
+    email : cepot@gmail.com
+    pass : admin
+
+User : 
+    email : ujang@gmail.com
+    pass : 123
