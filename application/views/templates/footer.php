@@ -2,7 +2,7 @@
 <footer class="sticky-footer bg-white">
     <div class="container my-auto">
         <div class="copyright text-center my-auto">
-            <span>Copyright &copy; Your Website <?= date('Y'); ?>.</span>
+            <span>Copyright &copy; Rizki Hutama <?= date('Y'); ?>.</span>
             <span>This Template From: <a href="https://startbootstrap.com/previews/sb-admin-2/" target="blank">sb-admin2</a></span>
         </div>
     </div>
